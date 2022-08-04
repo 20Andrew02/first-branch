@@ -1,3 +1,3 @@
 <?php
-echo 'Тут любой текст 321'
+echo file_get_contents("AnyFile.txt");
 ?>
