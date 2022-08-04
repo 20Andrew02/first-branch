@@ -1,3 +1,3 @@
-<?php 
-echo file_get_contents($argv[1]);
+<?php
+echo file_get_contents("AnyFile.txt");
 ?>
